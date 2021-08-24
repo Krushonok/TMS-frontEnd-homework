@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 15px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    background-color: white;
+    width: 1170px;
+    margin: auto;
+    padding: 15px ;
+}
+
+.awesome_card_img {
+    width: 30px;
+}
+
+.awesome_header,
+.awesome_subheader {
+    text-align: center;
+}
+
+.awesome_card_img {
+    border: 2.3px solid orange ; 
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.awesome_card_title {
+    padding: 25px;
+}
+
+.awesome_card_text {
+    padding: 15px;
+}
+
+.awesome_card {
+    display:  inline-block; 
+    width: 33%;
+    text-align: center;
+    margin: auto;
+}
+
+.line {
+ width: 60px;
+ margin: 20px auto;
+ border-bottom: 3px solid red;
+}
