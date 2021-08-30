@@ -10,27 +10,64 @@
     text-align: center;
 }
 
-.container {
-    width: 100%;
-    max-width: 1170px;
-    margin: auto;
-    height: auto;
+.pricing_container { 
+    display:inline-flex;
+    align-items: center;
+    justify-content:center;    
 }
 
-.flex_item {
-    border: 3px solid black;
-    background-color: #86878B;
-    color: #86878B;  
-    text-align: center; 
-    width: auto;
-    height: auto;
-
+.flex_container {
+    margin: 10px 78px 10px 10px;
+    height: 440px;
+    width: 340px;
+    display: ruby-base;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
 }
 
-.pricing-card__item {
-position: absolute;
-width: 340px;
-height: 468px;
-left: 531px;
-top: 274px;
+.flex_item_1 {
+  background-color: #333333;
+  color: white;
+  margin: 0.4%;
+  width: 340px;
+  height: 50px; 
+  text-align: center; 
 }
+
+.flex_item_2 {
+  background-color: #333333;
+  color: white;
+  margin: 0.3%;
+  width: 340px;
+  height: 50px; 
+  text-align: center;
+  }
+
+.flex_item_3 {
+    background-color: #333333;
+    color: white;
+    margin: 0.4%;
+    width: 340px;
+    height: 50px;
+    text-align: center;
+}
+
+.ul {
+  padding: 0px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.list_item {
+  width: 340px;
+  height: 40px;
+  margin: 4px 0px 4px 0px;
+  text-align: center; 
+}
+
+/*
+padding: 20px 190px 20px 160px;
+*/
