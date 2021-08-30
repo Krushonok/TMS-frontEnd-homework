@@ -1,19 +1,25 @@
 * {
     margin: 0;
-    padding: 0x;
+    padding: 15px;
     list-style-type: none;
     box-sizing: border-box;
     text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 .prising_subheader {
     text-align: center;
 }
 
+
 .pricing_container { 
-    display:inline-flex;
+    display: inline-flex;
     align-items: center;
-    justify-content:center;    
+    justify-content: space-around;   
+    width: 1170px;
+    margin: auto;
+    padding: 15px;
 }
 
 .flex_container {
@@ -40,7 +46,7 @@
 .flex_item_2 {
   background-color: #333333;
   color: white;
-  margin: 0.3%;
+  margin: 0.4%;
   width: 340px;
   height: 50px; 
   text-align: center;
