@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0x;
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.prising_subheader {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1170px;
+    margin: auto;
+    height: auto;
+}
+
+.flex_item {
+    border: 3px solid black;
+    background-color: #86878B;
+    color: #86878B;  
+    text-align: center; 
+    width: auto;
+    height: auto;
+
+}
+
+.pricing-card__item {
+position: absolute;
+width: 340px;
+height: 468px;
+left: 531px;
+top: 274px;
+}
