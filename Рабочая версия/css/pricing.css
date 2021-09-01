@@ -6,9 +6,13 @@
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
 }
+.pricing {
+  max-width: 1170px;
+  margin: auto;
+  height: 300px;
+}
 
-
-.prising_subheader {
+.pricing_subheader {
     text-align: center;
 }
 
@@ -70,7 +74,6 @@
 
 .ul {
   padding: 0px;
-
   text-align: center;
   list-style-type: none;
 }
