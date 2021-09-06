@@ -11,7 +11,7 @@
     width: 60px;
     margin: 20px auto;
     border-bottom: 3px solid red;
-   } 
+}
 
 .customers {
     max-width: 1170px;
@@ -40,9 +40,8 @@
     font-style: normal;
     font-size: 14px;
     font-weight: 400;
-    line-height: 19px; 
+    line-height: 19px;
     letter-spacing: 0em;
-       
 }
 
 .flex_customers {
@@ -54,7 +53,6 @@
     text-align: justify;
 }
 
-
 .border_flex_customers {
     background-color: #E2E2E2;
     width: 298px;
@@ -63,7 +61,7 @@
     top: 278px;
     border-radius: 5%;
     padding-bottom: 16px;
-    padding-left: 0px;  
+    padding-left: 0px;
 }
 
 .jeremy_flex_container {
@@ -71,20 +69,17 @@
     flex-direction: row;
     justify-content: space-around;
     padding: 15px;
-   
 }
 
 .jeremy_flex_item {
     width: 240px;
     margin: 15px 90px 15px 40px;
     padding: 15px;
-    
 }
 
 .jeremy_img {
     float: left;
     margin-right: 40px;
-    
 }
 
 .name {
@@ -108,13 +103,10 @@
     text-align: right;
 }
 
-
 .rectangle {
-    background: #E2E2E2; 
-    width: 25px; 
+    background: #E2E2E2;
+    width: 25px;
     height: 25px;
     transform: rotate(45deg);
-    margin-left: 45px; 
-  }
-
-  
+    margin-left: 45px;
+}

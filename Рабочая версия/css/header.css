@@ -1,15 +1,16 @@
-.header_container{
+.header_container {
     width: 1170px;
     margin: auto;
     background: #000000;
     height: 70px;
     left: 0;
-    top: 0;    
-}  
-.logo{
+    top: 0;
+}
+
+.logo {
     padding-top: 0;
     padding-left: 110px;
- }
+}
 
 .menu {
     top: 25px;
@@ -18,8 +19,9 @@
     justify-content: center;
     width: 1170px;
 }
+
 .menu_list li {
-    width:auto;
+    width: auto;
     display: inline-block;
     font-family: Open Sans;
     color: rgba(255, 255, 255, 0.7);
@@ -32,12 +34,10 @@
 
 .menu a:hover {
     border-bottom: 3px solid pink;
-    border-left:  3px solid pink;
+    border-left: 3px solid pink;
 }
 
-
-      
 a {
-    color:rgba(255, 255, 255, 0.7);
-    text-decoration:none
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none
 }
